@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="277.4617mm"
+   height="7.2959123mm"
+   viewBox="0 0 277.4617 7.2959123"
+   version="1.1"
+   id="svg5203"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="obig-elements-open.svg"
+   inkscape:export-filename="/home/user/Work/Talks/BelTech-2018/reveal.js/images/obig-elements-open.png"
+   inkscape:export-xdpi="118.36765"
+   inkscape:export-ydpi="118.36765">
+  <defs
+     id="defs5197">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12382">
+      <path
+         d="M 145.56401,672.8769 H 603.09514 V 634.54801 H 145.56401 Z"
+         id="path12384"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28948">
+      <path
+         d="M 145,383 H 596 V 842 H 145 Z"
+         id="path28950"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28958">
+      <path
+         d="M 145.977,842 H 596 V 383.055 H 145.977 Z"
+         id="path28960"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="559.1067"
+     inkscape:cy="-318.03116"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="4"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5200">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(33.730815,-73.384404)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.08416492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.79648"
+       y="81.535645"
+       id="text4204-3-6-4-5"
+       transform="scale(1.0126805,0.98747829)"><tspan
+         sodipodi:role="line"
+         id="tspan4206-6-2-5-4"
+         x="103.51769"
+         y="81.535645"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.49077129px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-0.55756956px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.08416492px;stroke-opacity:1">WHY OPEN MAKES IT WORK</tspan></text>
+    <path
+       style="opacity:1;fill:#a7c0cc;fill-opacity:0.67058824;stroke:#4f9d78;stroke-width:0.59915823;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0329077"
+       d="m -33.431235,73.683984 v 6.600927 h 75.542452 v -6.600927 z"
+       id="path5906"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#a7c0cc;fill-opacity:0.67058824;stroke:#4f9d78;stroke-width:0.57726175;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0329077"
+       d="m 166.65426,73.744305 v 6.480286 h 76.71673 v -6.480286 z"
+       id="rect6937"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

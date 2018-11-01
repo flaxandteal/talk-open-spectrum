@@ -1,0 +1,318 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/obig.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-background-size="fit" data-background-position="50% 90%" data-background="images/cover.png">
+				  <aside class="notes">
+				    <ul>
+				      <li>I run my own company, focused on open source, and working in collaboration with other small businesses</li>
+				      <li>Some of my work involves simulation, which is heavily dependent on access to academic literature</li>
+				      <li>In my previous job, working for a microentity on an FP7 surgical simulation project, I had to try and write detailed academic surveys with no journal access. Open access and pre-publication was vital.</li>
+				      <li>But this isn't a new challenge - I'll start with an anecdote</li>
+				    </ul>
+				  </aside>
+				</section>
+				<section data-background-size="fit" data-background-position="0% 90%" data-background="images/obig-presentation2-cornish.png">
+					<h2>Open Tech for</h2>
+					<h1>Deep Mining<br/>Start-ups</h1>
+					<h3>in 18th Century Cornwall</h3>
+					<aside class="notes">
+						<ul>
+						  <li>the  name  of  the  engineer  entrusted  with  the  engine  and  eventual  remarks  on
+						    potentially interesting features of the engine and of its working behaviour. (Nuvolari, 2007)</li>
+							<li>The Cornish: Pear's Soap, high-pressure steam engine, the one true fake pasty.</li>
+							<li>Mine adventurers, large scale deep mining. Black &amp; white flags. Cusp of first industrial revolution. However, mines go below the water table, and a major limitation was the ability to get water _out_ of mines. This was the first true task of the steam era.</li>
+
+							<li>In 1765, James Watt was working at a University and spotted inefficiencies in the steam engine; he a developed a PoC, spent most of his cash on patenting, and, in 1775, his original backer went bankrupt and an angel investor, Boulton, stepped in to help get him a crack dev team, facilities and build an MVP. A year later, he'd some machines in production, and by 1777 his machines were spreading through the Cornish mining industry, the first true test of steam at scale. Much of installation was at cost, and adventurers paid Boulton &amp; Watt based on their closed IP managed service agreement.</li>
+							<li>However, Boulton &amp; Watt's IP claim was broad. It covered all new steam engines, creating a block on independent improvements. They charged steep subscriptions, and when mines were least productive, in the rainy winter, adventurers were paying the highest infrastructure costs, with no clear caps. After the labour in getting the patent, Watt &amp; Boulton did not sublicense and blocked all potential competitors, and all other innovation for almost a quarter of a century.</li>
+							<li>The adventurers debated a legal challenge, but finally decided it was unenforceable and started secretly building "pirate engines", thanks to one of the key co-innovators that had made Watt's business possible, James Wilkinson. When discovered, both sides sunk huge time and money, with royalties being stuck in escrow, into trying to get past the IP issue.</li>
+							<li>In 1800, the patent ran out. For 10 years, the adventurers just soaked up the benefits of the vanished expense, but then they started getting creative, and practised what they had preached. It turns out Docker isn't the first tech to co-opt nautical terms for open IP projects. Their mines, presumably including the old pirate ones, had "captains", managers, who started an industry publication for all the captains and engineers to release technical improvements and improve best-practice standards industry-wide, as well as to generate a climate of competition between the engineers for publicly contributing innovation, by printing live performance stats for all the engines. An "engine reporter", Lean, was responsible for coordinating all this in that 19th Century Github. Meanwhile Trevithick, of Cornwall's Ding Dong Mine, who previously had an injunction from Watt hammered into his door, invented the high-pressure steam engine, crossing the power-to-weight barrier, and quickly enabling steam trains - he took no patent and instead sold his expertise internationally. Unfortunately for him, while in South America, he got pressed into Simon Bolivar's revolutionary army, but couldn't shoot straight and was eventually allowed to go home.</li>
+							<li>The mines created an IP-sharing culture, incorporating each others' innovations, stimulating professional self-improvement in engineers, and focused on their value-add as independent competing service and commodity providers, rather than trying to become technology monoliths. Cornwall's mines suddenly trebled their annual effiency gains, and kept that consistent annual rate of improvement for over thirty years.</li>
+							<li>Cornwall's steam innovations went on, thanks to Trevithick, as much as Watt, to become the engine of industrial revolution, and to revolutionize the globe.</li>
+							<li>https://core.ac.uk/download/pdf/6527052.pdf</li>
+						</ul>
+					</aside>
+				</section>
+				<section data-background-transition="fade" data-transition="fade-in" data-background-size="contain" data-background-position="0% 100%" data-background="images/obig-presentation2-front.png">
+					<img src='images/cornish-efficiency.png'>
+				</section>
+				<section>
+				  <h3>Innovation &amp; Collaboration</h3>
+				  <img class='fragment current-visible' src='images/avata.png'>
+				  <img src='images/belfastmet.png' class='fragment current-visible'>
+				</section>
+				<section data-background-transition="fade" data-transition="fade-in" data-background-size="contain" data-background-color="black" data-background="images/spectrum2.png">
+					<aside class="notes">
+Software industry:
+    Marco Arment (was lead dev at Tumblr)
+    IP, three shades of ineffectual:
+        Copyright: minor variation sufficient, essence is not covered
+        Patent: costly to obtain and enforce, PR nightmare and dubiously valid
+        Trademark: useful, but does not cover ideas
+    IT industry, especially small business, needs to find counter-IP streams to survive
+---
+    Customers paid not for receiving more value, but out of fear of what would happen if they stopped paying. Fear, however, is not a path forward.
+
+    The software industry was ultimately liberated by open source software. This model of open collaboration and sharing delivered what was thought to be impossible: better quality of products at a lower cost for the customer. Open source software combined with ubiquitous cloud services enabled the massive growth in digital businesses that we are witnessing today.
+Marten Mickos, CEO HackerOne & ex-Nokia, via Forbes
+					</aside>
+
+				</section>
+				<section data-transition="fade-in" data-background-size="contain" data-background-position="0% 100%" data-background="images/obig-presentation2-front.png">
+					<img src='images/trl.png'>
+				</section>
+				<section data-transition="fade-in" data-background-size="contain" data-background-position="0% 100%" data-background="images/obig-presentation2-front.png">
+					<img src='images/trl-separate.png'>
+				</section>
+				<section data-transition="fade-in" data-background-size="contain" data-background-position="0% 100%" data-background="images/obig-presentation2-front.png">
+				  <section data-transition="fade-in" data-background-size="contain" data-background-position="0% 100%" data-background="images/obig-presentation2-front.png">
+					<img src='images/trl-open.png'>
+				  </section>
+				  <section data-transition="fade-in" data-background-size="contain" data-background-position="0% 100%" data-background="images/obig-presentation2-front.png">
+					<img src='images/trl-govt.png'>
+				  </section>
+				</section>
+				<section data-background-size="contain" data-background-color="black" data-background="images/io.png">
+				</section>
+				<section data-transition="fade-out">
+				  <section data-background-size="contain" data-background-color="black" data-background="images/bg-context.png">
+				  </section>
+				  <section data-background-video="images/orp.webm" data-background-size="contain">
+				  </section>
+				  <section data-background="images/orp-asc-core.svg" data-background-size="contain">
+				  </section>
+				</section>
+				<section data-transition="fade-in">
+				  <section data-background-size="contain" data-background-position="0% 90%" data-background="images/obig-presentation2-front.png">
+					  <img src="images/obig-presentation2-lintol.png"/>
+					  <aside class="notes">
+					  <h1>Case Study</h1>
+  Swap who we sell to and lintol
+  - Lintol KPIs
+    - 2 focus groups in Belfast, 1 in London, with 30-40 participants total, and more requests than we could      accommodate
+    - around 70 open data publishers in public bodies engaged with
+    - coding challenge - tech community outreach - 80 people signed-up
+    - high quality of entries, winners announced last week, judging by a mixed technical, government stakehol     der panel                                                                                                  
+    - stakeholder engagement, 20 interviews for persona research; open data publishers & end-users
+    - good twitter engagement
+    - FOSDEM. BelFOSS project room
+    - custom professionally voiced training videos
+					  </aside>
+				  </section>
+				  <section data-background-size="contain" data-background-position="0% 90%" data-background="images/obig-presentation2-front.png">
+					  <img src="images/obig-presentation2-lintol2.png"/>
+					  <aside class="notes">
+					  </aside>
+				  </section>
+				</section>
+				<section>
+				  <blockquote cite="William Spooner, CTO (oastories.org)">Would the human genome project have generated the billion dollar economic impact that it has “if you had to pay $50 to look at every single paper that had been published on the subject?”</blockquote>
+				  <p><img height="40px" src="images/eagle-logo.png"/><br/><small>William Spooner, CTO (oastories.org)</small></p>
+				</section>
+				<section>
+				  <section>
+				    <ul>
+				      <li>SMEs and large business rank journal access importance equally</li>
+				      <li>Over half of SMEs face article access difficulties</li>
+				      <li>The most common coping strategy, is to find a different, similar paper</li>
+				      <li>Less than 1/3 of companies consider Research Data easy to access</li>
+				    </ul>
+				    <small>(ElSabry, 2017 &amp; cited; CIBER, 2011)</small>
+				    <aside class="notes">
+				      Note that these responses are generally from only those industrial researchers
+				      actively subscribing to Elsevier in Scopus. One would imagine numbers from a
+				      wider SME R&amp;D population to be even more emphatic
+				    </aside>
+				  </section>
+				  <section>
+				    <img src="images/Industry access to the literature.png"/>
+				  </section>
+				</section>
+				<section>
+				  <img src="images/monero.png"/>
+				</section>
+				<section>
+				  <h3>Is it really a two way street?</h3>
+				  <aside class="notes">
+				    <ul>
+				      <li>First off, open access isn't just an industry input</li>
+				      <li>Secondly, practical support means enriching research tools with labour and money from industry revenue, through collaboration and/or funding</li>
+				    </ul>
+				  </aside>
+				</section>
+				<section data-transition="fade-out">
+				  <h3>Example: NumFOCUS</h3>
+				  <ul class="fragment">
+				    <li>NumPy</li>
+				    <li>pandas</li>
+				    <li>Jupyter</li>
+				    <li>Julia</li>
+				    <li>FEniCS</li>
+				    <li>...</li>
+				  </ul>
+				</section>
+				<section data-transition="fade-in">
+				  <h3>Example: NumFOCUS</h3>
+				  <ul>
+				    <li>Bloomberg, MS, IBM</li>
+				    <li>Two Sigma, NVIDIA, Capital One</li>
+				    <li>IMC, Civis Analytics, Anaconda</li>
+				    <li>Geotab, Google, optiver, ActiveState, zappi</li>
+				    <li>plotly, Quantopian, Ravelin, QuanSight</li>
+				    <li>...</li>
+				  </ul>
+				</section>
+				<section>
+				  <h3>So is it all open roses?</h3>
+				  <p class="fragment">e.g. deanonymizability<br/>...but k-anonymization [e.g. @kjam]</p>
+				  <p class="fragment">e.g. need for some IP<br/>...focused on retaining transparency</p>
+				  <aside class="notes">Katharine Jarmul; KIProtect</aside>
+				</section>
+				<section data-background-size="contain" data-background-position="0% 50%" data-background-color="rgba(250, 250, 250, 0.6)" data-background="images/obig-presentation2-front.png"><img src="images/logo.png" height="200em" style="background: white; padding: 1em; border-radius: 10px">
+					<aside class="notes">
+						<ul>
+							<li>So, is open access important for industry?</li>
+							<li>
+							  Yes. And it's not just important for industry, it's important for consumers served by industry, to ensure their products are built with a complete understanding, and not in a commercially or intellectually windowed environment, especially those trusting their lives to technology. It's also, as a result of fostering academia-dependent SMEs, additionally beneficial to researchers through collaborative projects, open source, real-world data collection and provides opportunities for academics to set out as entrepreneurs, without cutting ties to their science.</li>
+
+							<li>In short, open access has enabled a new breed of innovator - one driven by transparency, collaboration and accountability, who doesn't see human knowledge as paywalled, in or out, black or white, but sees all the colours of the open rainbow.</li>
+						</ul>
+					</aside>
+				</section>
+
+				<section data-background-size="contain" data-background-position="0% 90%" data-background="images/obig-presentation2-front.png">
+					<img src="images/obig-elements-value-add.png"/><br/>
+					<img src="images/obig-solutions.png"/>
+					<aside class="notes">
+					<ul>
+						<li>No lock-in</li>
+						<li>Multi-disciplinary, inter-disciplinary</li>
+						<li>Explicitly transparent &amp; auditable</li>
+						<li>Bought-in</li>
+					</ul>
+						<ul>
+							<li>this is our number one sales point - we keep ourselves lean by leaving the door open to our competition. If we don't stay as effective or efficient as they are, we know you'll switch.</li>
+							<li>front-end, back-end, design, UX, business analysts, IoT, media and comms, infrastructure, research and science</li>
+							<li>we also expect no discipline to have one member, or any member to have a single skillset. There must be overlap, to build in resilience.</li>
+							<li>Currently working as a team on green-field GDPR focused projects</li>
+							<li>our structure allows any member to bring in a potential project, as project lead, and be supported by tender writers, UX experts, business analysts, administrators and designers who make sure they can structure it - in fact, this is the only way any member can guarantee income, if they aren't involved in a project, by finding work and engaging others in bidding for and delivering it. we have found a massive mutual understanding benefit, and buy-in, through members sitting on both sides of the lead/supporter table.</li>
+						</ul>
+					</aside>
+				</section>
+				<section data-transition="fade-in" data-background-size="contain" data-background-position="0% 90%" data-background-color="rgba(50, 50, 60, 0.8)" data-background="images/obig-presentation2-front.png">
+					<img src='images/obig-circular.png'>
+					<aside class="notes">
+					<h1>How do we solve the problem?</h1>
+					<ul>
+						<li>Power-to-weight ratio</li>
+						<li>Reconnect between team and requirements</li>
+						<li>Keep investment in the local economy</li>
+						<li>Products &amp; Services</li>
+					</ul>
+						<ul>
+							<li>Client Driven: Cutting out the reseller - our members go direct to client and build, with support from the group, a competent, multi-skilled project team around their needs</li>
+							<li>We maintain close ties to Farset Labs, a critical tech community hub of wide-ranging expertise in central Belfast - this has been essential</li>
+							<li>over 160 years of industry experience drawn into tight-knit project teams</li>
+							<li>By expecting members to both lead and support, we have seen understanding gaps subverted, and that level of interdependence enhance reliability. We are able to have projects where a tech team member, not the business analyst, is responsible for signing off deliverables as lead - the analyst is free to represent the client's interests to the scrum team without reservation, and the tech lead is directly financially responsible to the client for ensuring delivery.</li>
+							<li>We sell what we have learned, and we spend it, where possible, on independent SMEs in the local area, virtually entirely on staffing and collaborator costs. We are even looking at ways of bringing more of our cloud costs into NI.</li>
+							<li>We don't just sell skills - it's hard to keep people that way, or to create a genuinely scaleable business. We also build products, drawing on our R&amp;D experience. For clients, for ourselves, and in collaboration.</li>
+						</ul>
+					</aside>
+				</section>
+				<section data-background-size="contain" data-background-position="0% 90%" data-background="images/obig-presentation2-front.png">
+					<h3>Who we sell to</h3>
+					<img src="images/breakdown.png"/>
+					<aside class="notes">
+						<ul>
+						<li>Within all of these, we have open sourcing clauses</li>
+						<li>Innovation-as-a-Service</li>
+						<li>End-to-end Product Building</li>
+					  <li>Just over a third to private clients, the remainder through competitive tenders and competitions</li>
+					  <li>In two years, only had one formal bid rejected<li>
+						</ul>
+					</aside>
+				</section>
+				<section data-background-size="contain" data-background-position="0% 90%" data-background="images/obig-presentation2-front.png">
+					<img src='images/obig-members.png'>
+					<aside class="notes">
+					<h1>And for our members...</h1>
+					<ul>
+						<li>Flexible</li>
+						<li>Realize your passion</li>
+						<li>Actual self-employment</li>
+						<li>Opportunity to scale</li>
+						<li>Open source</li>
+						<li>Soft landing</li>
+					</ul>
+						<ul>
+							<li>we are a syndicate, the pathway from co-operating on a project to voting membership is flexible and based on delivery</li>
+							<li>you can get a full team together to build your own product, of people you get to know well, and you can even work on open source projects that will contribute to your aim</li>
+							<li>If you're a contractor whose contract reads like an IR35 checklist, you ain't a freelancer, whatever the recruiter said.</li>
+							<li>If you're a freelancer, who can only guarantee delivery of one-person projects, you ain't gonna scale.</li>
+							<li>There's no value-add to being somewhere unless it demonstrably enhances your skills. There's no better way to do that than creating and engaging in open source, as part of your paid work.</li>
+							<li>for those going independent, we can make that transition as smooth as possible</li>
+							<li>it's challenging, especially when a project administrator, it can be long hours, it can lead to a rather odd social-work intermixing, but sometimes, when you're out for a project dinner in Shoreditch celebrating a productive focus group for your open source product, it sure is worth it.</li>
+						</ul>
+					</aside>
+				</section>
+				<section data-background-size="contain" data-background-position="0% 90%" data-background="images/obig-presentation2-front.png">
+					<img class="fragment" src='images/obig-elements-open.png'>
+					<ul>
+						<li class="fragment">Products &amp; services?</li>
+						<li class="fragment">Data analysis and insights</li>
+						<li class="fragment">Transparency and auditability</li>
+					</ul>
+					<aside class="notes">
+						- You shouldn't do both! Not if your products are closed IP, no. But here... Your products cut the feet from under the proprietary vendors, and your services engage the released capital, hand in hand. Of course, it's a devil's pact - you get a huge competitive advantage for your product, but have to compete with third-parties for your services. You've a head start, but if you're inefficient, if you're insecure, if you're ineffective, you get left behind in servicing your own product. If only that was true in closed source, we'd all be better off.
+						- Open data provides us with a freely available repository of insights waiting to be discovered, it allows us to show what we can achieve and augment with our client's data, not be dependent on it for proving the concept, or even generating a saleable product
+						- And not just an agreed auditor under a mountain of code, behind closed doors
+						- Isn't a product's IP what makes it worthwhile? No, rarely, we're not in manufacturing or engineering. If you are depending on copyright, not patent or trademark, if you become successful, someone will build what you have, cheaper, faster and overseas, learning from your design flaws. There's no law against it, and even if they can copy your code, it's probably quicker for them to point a cheap team at it and start from scratch instead.
+						- What you're trading on is your quality as a provider, your knowledge of the market, your in-house experience, your user-base, your market position. Don't get caught into IP fights that cost as much to win as to lose.
+					</aside>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				parallaxBackgroundImage: 'images/obig-presentation2-back.png',
+				backgroundTransition: 'slide',
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>

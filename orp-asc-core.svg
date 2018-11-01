@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="application/ecmascript"
+   contentStyleType="text/css"
+   height="868.47302"
+   preserveAspectRatio="none"
+   version="1.1"
+   viewBox="0 0 1453.6236 868.47302"
+   width="1453.6237"
+   zoomAndPan="magnify"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="orp-asc-core.svg"
+   inkscape:export-filename="/home/chrx/Code/odsc/images/orp-asc-core.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <metadata
+     id="metadata758">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview756"
+     showgrid="false"
+     inkscape:zoom="0.48099174"
+     inkscape:cx="214.00897"
+     inkscape:cy="573.03877"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <filter
+       height="3"
+       id="fd7p7t90ivnr4"
+       width="3"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur7" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix9" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset11" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend13" />
+    </filter>
+    <filter
+       height="3"
+       id="fd7p7t90ivnr4-6"
+       width="3"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur7-6" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix9-4" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset11-9" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend13-5" />
+    </filter>
+  </defs>
+  <rect
+     y="464.04907"
+     x="102"
+     width="102"
+     style="fill:#ee82ee;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="FeatureSet"
+     height="92.351601" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8ebb8e;fill-opacity:0.28313252;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5362-7"
+     width="309.36923"
+     height="640.34363"
+     x="1104.2729"
+     y="171.18091" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00fefe;fill-opacity:0.1927711;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5362-2"
+     width="259.8797"
+     height="640.34363"
+     x="837.60162"
+     y="173.80495" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f4ddb2;fill-opacity:0.36746988;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5362-1"
+     width="370.06873"
+     height="640.34363"
+     x="459.2168"
+     y="174.12109" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#febfca;fill-opacity:0.34939761;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5362-9"
+     width="212.06186"
+     height="640.34363"
+     x="242.99683"
+     y="176.12109" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="FeatureArc-CaseFeatureChunk"
+     d="m 681.6981,674.29307 c -7.97,-4.487 -16.19,-8.71 -24.27,-12.244 -81.11,-35.477 -113.701,-11.697 -192,-53 -24.484,-12.916 -48.398,-31.723 -68.091,-49.416" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ed81ed;fill-opacity:0.29518074;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5362"
+     width="153.84879"
+     height="640.34363"
+     x="83.613831"
+     y="178.75058" />
+  <rect
+     y="242.06372"
+     x="102.23726"
+     width="97"
+     style="fill:#ee82ee;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="District"
+     height="92.351601" />
+  <text
+     style="font-size:43.28104401px;font-family:sans-serif;fill:#410941;fill-opacity:1"
+     id="text24"
+     y="302.8764"
+     x="106.54231"
+     textLength="44"
+     lengthAdjust="spacingAndGlyphs"
+     font-size="12">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#410941;fill-opacity:1"
+       id="tspan5397">District</tspan>
+  </text>
+  <rect
+     y="380.57031"
+     x="1300"
+     width="117"
+     style="fill:#00ffff;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="Phenomenon"
+     height="117.9609"
+     transform="matrix(1.3900292,0,0,0.66282827,-947.47209,2.700038)" />
+  <rect
+     y="598.07031"
+     x="989"
+     width="117"
+     style="fill:#00ffff;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="Combination"
+     height="92.351601"
+     transform="matrix(1.4382079,0,0,0.77728056,-561.66594,204.60923)" />
+  <rect
+     y="429.19684"
+     x="874.86279"
+     width="131"
+     style="fill:#00ffff;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="NumericalModel"
+     height="105.1563" />
+  <rect
+     y="427.04907"
+     x="571.4281"
+     width="130"
+     style="fill:#f5deb3;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="Simulation"
+     height="181.98441" />
+  <rect
+     y="674.54907"
+     x="675.4281"
+     width="130"
+     style="fill:#f5deb3;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="FeatureArc"
+     height="79.546898" />
+  <rect
+     y="591.57031"
+     x="608"
+     width="159"
+     style="fill:#f5deb3;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="ResultFeatureChunk"
+     height="105.1563"
+     transform="matrix(1.0364209,0,0,0.9753469,-147.43342,86.359027)" />
+  <rect
+     y="464.04907"
+     x="273.9281"
+     width="151"
+     style="fill:#ffc0cb;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="CaseFeatureChunk"
+     height="92.351601" />
+  <rect
+     y="214.04907"
+     x="273.9281"
+     width="121"
+     style="fill:#ffc0cb;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="CaseContext"
+     height="143.5703" />
+  <rect
+     y="393.57031"
+     x="1531"
+     width="89"
+     style="fill:#8fbc8f;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="Affiliation"
+     height="92.351601"
+     transform="matrix(1.4105418,0,0,0.83233917,-1013.093,280.92643)" />
+  <rect
+     y="228.9644"
+     x="1365.5204"
+     width="76"
+     style="fill:#8fbc8f;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="User"
+     height="79.546898"
+     transform="matrix(1,0,0,-1,-127.0719,801.6017)" />
+  <rect
+     y="390.96439"
+     x="1300.0203"
+     width="85"
+     style="fill:#8fbc8f;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4)"
+     id="RegUser"
+     height="92.351601"
+     transform="matrix(1,0,0,-1,-127.0719,801.6017)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="User-RegUser"
+     d="m 1255.0784,473.47729 c -7.55,-20.538 -15.92,-43.312 -23.01,-62.619" />
+  <polygon
+     id="polygon581"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     points="1987.07,597.198 2000.54,580.84 2000.22,602.027 1987.07,597.198 "
+     transform="matrix(1,0,0,-1,-738.55161,1073.1373)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="User-MinUser"
+     d="m 1296.7984,473.39529 c 9.73,-27.853 20.89,-59.8 28.52,-81.632" />
+  <polygon
+     id="polygon584"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     points="2028.73,602.029 2028.75,580.84 2041.95,597.411 2028.73,602.029 "
+     transform="matrix(1,0,0,-1,-738.55161,1073.1373)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="User-User"
+     d="m 1327.9484,547.7413 c 12.35,-1.181 21.5,-6.215 21.5,-15.10401 0,-11.852 -16.27,-16.851 -34.69,-15" />
+  <polygon
+     id="polygon594"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="2053.31,525.5 2059.3406,529.4537 2065.3096,525.4077 2059.2791,521.454 2053.31,525.5 "
+     transform="matrix(1,0,0,-1,-738.55161,1073.1373)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:0.79136407"
+     id="NumericalModel-Combination"
+     d="m 941.114,533.4247 c -10.8145,8.83162 -20.6517,18.82413 -26.4403,29.22858 -17.0597,30.67034 -17.9286,42.54776 0,73.02463 6.9605,11.83373 19.6715,22.91849 32.9051,32.187" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="Combination-Simulation"
+     d="m 861.7081,681.89907 c -13.15,-6.775 -27.1,-13.729 -40.28,-19.85 -31.81,-14.776 -44.19,-9.993 -73,-30 -16.58,-11.51 -32.52,-25.858 -46.91,-40.607" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="CaseContext-CaseFeatureChunk"
+     d="m 339.5951,363.52907 c 2.257,33.4 4.827,71.43 6.773,100.234" />
+  <polygon
+     id="polygon613"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="773.808,184.16 773.808,184.16 770.4082,193.4034 774.1366,189.1492 778.3909,192.8777 "
+     transform="translate(-434.5719,174.04907)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="CaseContext-District"
+     d="m 273.7201,309.91907 c -43.62331,-56.18231 -15.84679,13.56141 -72.00242,-19.7197"
+     sodipodi:nodetypes="cc" />
+  <polygon
+     id="polygon620"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="488.7793,284.5388 483.2031,285.4909 482.2511,279.9147 480.313,289.571 480.313,289.571 "
+     transform="matrix(1,0,0,-1,-281.68132,574.87468)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="Affiliation-Combination"
+     d="m 1143.6701,630.90856 c -69.5201,6.58586 -113.4621,17.7248 -147.242,31.14051 -5.77,2.309 -11.55,5.11 -17.19,8.199"
+     sodipodi:nodetypes="ccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="Affiliation-User"
+     d="m 1196.9057,605.6768 c -4.7224,-43.35275 21.6884,-79.33891 41.4884,-109.71691"
+     sodipodi:nodetypes="cc" />
+  <polygon
+     id="polygon628"
+     style="fill:#ffffff;stroke:#a80036;stroke-width:1"
+     points="1912.46,382.193 1912.3868,389.4037 1919.0147,392.2447 1919.0879,385.0339 1912.46,382.193 "
+     transform="matrix(-1,0,0,-1,3114.0064,989.1015)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="District-Affiliation"
+     d="m 142.03032,336.09022 c 14.2061,34.66607 48.18112,76.41885 74.61312,62.62885 31.244,-16.3 834.33516,-15.75 865.85516,0 27.37,13.66 62.049,185.00309 76.039,209.17109"
+     sodipodi:nodetypes="cccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="FeatureSet-CaseFeatureChunk"
+     d="m 209.5741,538.25607 c 21.37,6.426 42.741,7.931 64.111,4.513" />
+  <polygon
+     id="polygon640"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="639.297,362.665 639.297,362.665 646.6608,369.2053 644.0617,364.1808 649.0861,361.5818 "
+     transform="translate(-434.5719,174.04907)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="FeatureSet-ResultFeatureChunk"
+     d="m 197.4111,560.42307 c 17.346,17.219 38.307,35.497 60.017,48.626 70.113,42.401 159.816,70.598 223.376,86.903" />
+  <polygon
+     id="polygon647"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="628.111,382.488 628.111,382.488 631.6317,391.6861 631.6408,386.0292 637.2977,386.0384 "
+     transform="translate(-434.5719,174.04907)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="District-FeatureSet"
+     d="m 113.98736,330.69666 29.59159,132.30915"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="Simulation-ResultFeatureChunk"
+     d="m 597.9581,613.56207 c -6.31,16.806 -12.6,33.565 -18.18,48.426" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="Simulation-FeatureArc"
+     d="m 662.7281,613.64207 c 2.66,6.346 5.55,12.535 8.7,18.407 7.97,14.869 18.99,29.466 29.89,42.104" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="Phenomenon-NumericalModel"
+     d="m 940.3628,341.41984 c 0,28.117 0,60.811 0,87.455" />
+  <polygon
+     id="polygon676"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="1666,395.028 1662,404.028 1666,400.028 1670,404.028 1666,395.028 "
+     transform="translate(-725.63719,-58.803158)" />
+  <polygon
+     id="polygon699"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="828.028,382.063 828.028,382.063 832.0051,391.0732 831.7308,385.4229 837.381,385.1487 "
+     transform="translate(-434.5719,174.04907)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#a80036;stroke-width:1"
+     id="CaseContext-Simulation"
+     d="m 399.4161,334.81907 c 50.801,37.35 121.088,89.01 171.916,126.378" />
+  <polygon
+     id="polygon719"
+     style="fill:#a80036;stroke:#a80036;stroke-width:1"
+     points="829.751,157.66 829.751,157.66 834.6333,166.2135 833.7796,160.6215 839.3717,159.7677 "
+     transform="translate(-434.5719,174.04907)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:59.35024643px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7f0218;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="269.98169"
+     y="170.28502"
+     id="text5286"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288"
+       x="269.98169"
+       y="170.28502"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#7f0218;fill-opacity:1">Case Tier</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:59.35024643px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7e5912;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="529.64539"
+     y="170.28581"
+     id="text5286-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6"
+       x="529.64539"
+       y="170.28581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#7e5912;fill-opacity:1">Simulation Tier</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:59.35024643px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006868;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="860.78082"
+     y="170.04762"
+     id="text5286-3-7"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5"
+       x="860.78082"
+       y="170.04762"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#006868;fill-opacity:1">Abstract Tier</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:59.35024643px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3a603a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1206.9446"
+     y="170.04762"
+     id="text5286-3-7-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5"
+       x="1206.9446"
+       y="170.04762"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#3a603a;fill-opacity:1">User</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:59.35024643px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#811281;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="160.62479"
+     y="170.04762"
+     id="text5286-3-7-3-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2"
+       x="160.62479"
+       y="170.04762"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#811281;fill-opacity:1">Data Tier</tspan></text>
+  <g
+     id="g5461"
+     transform="translate(-127.0719,70.478772)">
+    <text
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="44"
+       x="234.28896"
+       y="437.78391"
+       id="text24-3"
+       style="font-size:43.28104401px;font-family:sans-serif;fill:#410941;fill-opacity:1">
+      <tspan
+         id="tspan5397-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#410941;fill-opacity:1">Feature</tspan>
+    </text>
+    <text
+       font-size="12"
+       lengthAdjust="spacingAndGlyphs"
+       textLength="44"
+       x="234.55885"
+       y="474.009"
+       id="text24-3-0"
+       style="font-size:43.28104401px;font-family:sans-serif;fill:#410941;fill-opacity:1">
+      <tspan
+         id="tspan5397-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#410941;fill-opacity:1">Set</tspan>
+    </text>
+  </g>
+  <g
+     transform="translate(44.09929,69.405754)"
+     id="g5461-2"
+     style="fill:#5e0112;fill-opacity:1">
+    <g
+       id="g5494"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#5e0112;fill-opacity:1">
+      <text
+         style="font-size:43.28104401px;font-family:sans-serif;fill:#5e0112;fill-opacity:1"
+         id="text24-3-6"
+         y="437.78391"
+         x="234.28896"
+         textLength="44"
+         lengthAdjust="spacingAndGlyphs"
+         font-size="12">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#5e0112;fill-opacity:1"
+           id="tspan5397-6-1">CaseFeature</tspan>
+      </text>
+      <text
+         style="font-size:43.28104401px;font-family:sans-serif;fill:#5e0112;fill-opacity:1"
+         id="text24-3-0-8"
+         y="474.009"
+         x="234.55885"
+         textLength="44"
+         lengthAdjust="spacingAndGlyphs"
+         font-size="12">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#5e0112;fill-opacity:1"
+           id="tspan5397-6-6-7">Chunk</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     transform="translate(7.05094,-172.83968)"
+     id="g5461-2-9">
+    <g
+       id="g5494-2"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)">
+      <g
+         id="g5530"
+         transform="translate(44.229317,9.7088744)"
+         style="fill:#5e0112;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.28896"
+           y="437.78391"
+           id="text24-3-6-0"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#5e0112;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#5e0112;fill-opacity:1">Case</tspan>
+        </text>
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.55885"
+           y="474.009"
+           id="text24-3-0-8-3"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#5e0112;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-6-7-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#5e0112;fill-opacity:1">Context</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(342.81555,67.289192)"
+     id="g5461-2-5"
+     style="fill:#715010;fill-opacity:1">
+    <g
+       id="g5494-9"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#715010;fill-opacity:1">
+      <text
+         style="font-size:43.28104401px;font-family:sans-serif;fill:#715010;fill-opacity:1"
+         id="text24-3-6-2"
+         y="452.8866"
+         x="232.21346"
+         textLength="44"
+         lengthAdjust="spacingAndGlyphs"
+         font-size="12">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#715010;fill-opacity:1"
+           id="tspan5397-6-1-28">Simulation</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     transform="translate(251.49596,275.19297)"
+     id="g5461-2-3"
+     style="fill:#715010;fill-opacity:1">
+    <g
+       id="g5494-1"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#715010;fill-opacity:1">
+      <text
+         style="font-size:43.28104401px;font-family:sans-serif;fill:#715010;fill-opacity:1"
+         id="text24-3-6-9"
+         y="437.78391"
+         x="234.28896"
+         textLength="44"
+         lengthAdjust="spacingAndGlyphs"
+         font-size="12">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#715010;fill-opacity:1"
+           id="tspan5397-6-1-4">ResultFeature</tspan>
+      </text>
+      <text
+         style="font-size:43.28104401px;font-family:sans-serif;fill:#715010;fill-opacity:1"
+         id="text24-3-0-8-7"
+         y="474.009"
+         x="234.55885"
+         textLength="44"
+         lengthAdjust="spacingAndGlyphs"
+         font-size="12">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#715010;fill-opacity:1"
+           id="tspan5397-6-6-7-8">Chunk</tspan>
+      </text>
+    </g>
+  </g>
+  <g
+     transform="translate(443.42539,273.98662)"
+     id="g5461-2-3-4"
+     style="fill:#715010;fill-opacity:1">
+    <g
+       id="g5494-1-5"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#715010;fill-opacity:1">
+      <g
+         id="g5650"
+         transform="translate(6.2265177,0)">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.28896"
+           y="437.78391"
+           id="text24-3-6-9-0"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#715010;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#715010;fill-opacity:1">Feature</tspan>
+        </text>
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.55885"
+           y="474.009"
+           id="text24-3-0-8-7-6"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#715010;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-6-7-8-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#715010;fill-opacity:1">Arc</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(633.40386,279.18422)"
+     id="g5461-2-3-4-5"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#003737;fill-opacity:1">
+      <g
+         id="g5650-4"
+         transform="translate(6.2265177,0)"
+         style="fill:#003737;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.28896"
+           y="437.78391"
+           id="text24-3-6-9-0-7"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#003737;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#003737;fill-opacity:1">Combination</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(642.75961,36.976318)"
+     id="g5461-2-3-4-9"
+     style="fill:#715010;fill-opacity:1">
+    <g
+       id="g5494-1-5-3"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#715010;fill-opacity:1">
+      <g
+         id="g5650-7"
+         transform="translate(6.2265177,0)">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.28896"
+           y="437.78391"
+           id="text24-3-6-9-0-4"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#004747;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#004747;fill-opacity:1">Numerical</tspan>
+        </text>
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="234.55885"
+           y="474.009"
+           id="text24-3-0-8-7-6-2"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#004747;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-6-7-8-1-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#004747;fill-opacity:1">Model</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(586.64431,-158.34653)"
+     id="g5461-2-3-4-5-4"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#003737;fill-opacity:1">
+      <g
+         id="g5650-4-4"
+         transform="translate(6.2265177,0)"
+         style="fill:#003737;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#003737;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#003737;fill-opacity:1">Phenomenon</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(871.69635,194.26796)"
+     id="g5461-2-3-4-5-4-0"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7-7"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#284328;fill-opacity:1">
+      <g
+         id="g5650-4-4-8"
+         transform="translate(6.2265177,0)"
+         style="fill:#284328;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4-6"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#284328;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1">Affiliation</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(902.353,-105.59247)"
+     id="g5461-2-3-4-5-4-0-8"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7-7-4"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#284328;fill-opacity:1">
+      <g
+         id="g5650-4-4-8-3"
+         transform="translate(6.2265177,0)"
+         style="fill:#284328;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4-6-1"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#284328;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3-8-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1">Full</tspan>
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1"
+             id="tspan5852" />
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1"
+             id="tspan5854" />
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(899.7067,-67.440038)"
+     id="g5461-2-3-4-5-4-0-8-9"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7-7-4-2"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#284328;fill-opacity:1">
+      <g
+         id="g5650-4-4-8-3-0"
+         transform="translate(6.2265177,0)"
+         style="fill:#284328;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4-6-1-6"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#284328;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3-8-4-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1">User</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <rect
+     y="397.00223"
+     x="1410.6956"
+     width="85"
+     style="fill:#8fbc8f;stroke:#a80036;stroke-width:1.5;filter:url(#fd7p7t90ivnr4-6)"
+     id="RegUser-0"
+     height="92.351601"
+     transform="matrix(1,0,0,-1,-127.0719,801.6017)" />
+  <g
+     transform="translate(1010.0881,-115.70697)"
+     id="g5461-2-3-4-5-4-0-8-4"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7-7-4-8"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#284328;fill-opacity:1">
+      <g
+         id="g5650-4-4-8-3-7"
+         transform="translate(6.2265177,0)"
+         style="fill:#284328;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4-6-1-1"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#284328;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3-8-4-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1">Min</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(1010.9119,-77.888188)"
+     id="g5461-2-3-4-5-4-0-8-9-2"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7-7-4-2-2"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#284328;fill-opacity:1">
+      <g
+         id="g5650-4-4-8-3-0-6"
+         transform="translate(6.2265177,0)"
+         style="fill:#284328;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4-6-1-6-1"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#284328;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3-8-4-8-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1">User</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(966.7665,83.24539)"
+     id="g5461-2-3-4-5-4-0-8-9-2-6"
+     style="fill:#003737;fill-opacity:1">
+    <g
+       id="g5494-1-5-5-7-7-4-2-2-1"
+       transform="matrix(0.96362047,0,0,0.96362047,8.5752821,17.256821)"
+       style="fill:#284328;fill-opacity:1">
+      <g
+         id="g5650-4-4-8-3-0-6-5"
+         transform="translate(6.2265177,0)"
+         style="fill:#284328;fill-opacity:1">
+        <text
+           font-size="12"
+           lengthAdjust="spacingAndGlyphs"
+           textLength="44"
+           x="275.28198"
+           y="467.98929"
+           id="text24-3-6-9-0-7-4-6-1-6-1-9"
+           style="font-size:43.28104401px;font-family:sans-serif;fill:#284328;fill-opacity:1">
+          <tspan
+             id="tspan5397-6-1-4-3-6-3-8-4-8-0-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#284328;fill-opacity:1">User</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:75.63172913px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#533b0c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="368.38834"
+     y="85.717712"
+     id="text6097"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6099"
+       x="368.38834"
+       y="85.717712"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#533b0c;fill-opacity:1;">OurRagingPlanet Model (ASC core)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#811281;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="119.1785"
+     y="477.6398"
+     id="text5286-3-7-3-6-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9"
+       x="119.1785"
+       y="477.6398"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#811281;fill-opacity:1">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#811281;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="141.28902"
+     y="551.61127"
+     id="text5286-3-7-3-6-3-4"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-8"
+       x="141.28902"
+       y="551.61127"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#811281;fill-opacity:1">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7f0218;fill-opacity:0.97647059;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="342.95569"
+     y="545.37415"
+     id="text5286-3-7-3-6-3-1"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-2"
+       x="342.95569"
+       y="545.37415"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#7f0218;fill-opacity:0.97647059;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7e5912;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="536.30621"
+     y="551.61127"
+     id="text5286-3-7-3-6-3-9"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-3"
+       x="536.30621"
+       y="551.61127"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#7e5912;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7e5912;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="582.04504"
+     y="767.83118"
+     id="text5286-3-7-3-6-3-90"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-88"
+       x="582.04504"
+       y="767.83118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#7e5912;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7e5912;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="459.38181"
+     y="809.41193"
+     id="text5286-3-7-3-6-3-5"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-0"
+       x="459.38181"
+       y="809.41193"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#7e5912;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7e5912;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="692.23401"
+     y="774.0683"
+     id="text5286-3-7-3-6-3-96"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-38"
+       x="692.23401"
+       y="774.0683"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#7e5912;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#006868;fill-opacity:0.62352943;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="912.61206"
+     y="747.04077"
+     id="text5286-3-7-3-6-3-56"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-1"
+       x="912.61206"
+       y="747.04077"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#006868;fill-opacity:0.62352943;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#006868;fill-opacity:0.62352943;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="937.56049"
+     y="512.10956"
+     id="text5286-3-7-3-6-3-15"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-9"
+       x="937.56049"
+       y="512.10956"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#006868;fill-opacity:0.62352943;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#006868;fill-opacity:0.62352943;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="1016.5639"
+     y="765.75214"
+     id="text5286-3-7-3-6-3-8"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-4"
+       x="1016.5639"
+       y="765.75214"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#006868;fill-opacity:0.62352943;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3a603a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="1120.5159"
+     y="744.96179"
+     id="text5286-3-7-3-6-3-81"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-03"
+       x="1120.5159"
+       y="744.96179"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#3a603a;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:185.60760498px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3a603a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="1149.6223"
+     y="688.82776"
+     id="text5286-3-7-3-6-3-0"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-44"
+       x="1149.6223"
+       y="688.82776"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#3a603a;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:137.44456482px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3a603a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="1336.5999"
+     y="595.21484"
+     id="text5286-3-7-3-6-3-44"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-7"
+       x="1336.5999"
+       y="595.21484"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#3a603a;fill-opacity:1;">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:43.17166901px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#284328;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-532.11737"
+     y="1385.017"
+     id="text5286-3-7-3-6-3-6"
+     sodipodi:linespacing="125%"
+     transform="matrix(0,-1,1,0,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan5288-6-5-5-2-9-31"
+       x="-532.11737"
+       y="1385.017"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:center;text-anchor:middle;fill:#284328;fill-opacity:1">Supervises</tspan></text>
+</svg>
